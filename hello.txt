@@ -1,2 +1,4 @@
 hello
-takakura
+takakur
+satoshi
+a
